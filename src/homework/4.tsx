@@ -9,7 +9,7 @@ interface Menu {
 }
 
 interface SelectedMenu {
-  id?: MenuIds; 
+  id: MenuIds; 
 }
 
 interface MenuSelected {
